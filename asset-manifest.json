@@ -1,16 +1,30 @@
 {
   "files": {
-    "main.css": "/umd-gened-checker/static/css/main.f855e6bc.css",
-    "main.js": "/umd-gened-checker/static/js/main.797bf8c1.js",
+    "main.css": "/umd-gened-checker/static/css/main.3203c854.css",
+    "main.js": "/umd-gened-checker/static/js/main.53bc5929.js",
     "static/js/453.d0c101a0.chunk.js": "/umd-gened-checker/static/js/453.d0c101a0.chunk.js",
+    "static/media/inter-latin-ext-400-normal.woff": "/umd-gened-checker/static/media/inter-latin-ext-400-normal.1c20f7dc20d731a18fcd.woff",
+    "static/media/inter-latin-400-normal.woff": "/umd-gened-checker/static/media/inter-latin-400-normal.b0c8fe9db56dd415a25a.woff",
+    "static/media/inter-latin-ext-400-normal.woff2": "/umd-gened-checker/static/media/inter-latin-ext-400-normal.3d10c85fbd16969509a2.woff2",
+    "static/media/inter-latin-400-normal.woff2": "/umd-gened-checker/static/media/inter-latin-400-normal.9698cc7dbf147ed363b6.woff2",
+    "static/media/inter-cyrillic-ext-400-normal.woff": "/umd-gened-checker/static/media/inter-cyrillic-ext-400-normal.e89451624c6caf35687f.woff",
+    "static/media/inter-cyrillic-ext-400-normal.woff2": "/umd-gened-checker/static/media/inter-cyrillic-ext-400-normal.fd1478dcc74de00ee4c0.woff2",
+    "static/media/inter-cyrillic-400-normal.woff": "/umd-gened-checker/static/media/inter-cyrillic-400-normal.e2841352dd9512ff455b.woff",
+    "static/media/inter-greek-400-normal.woff": "/umd-gened-checker/static/media/inter-greek-400-normal.a42da273bb968bf2058d.woff",
+    "static/media/inter-greek-400-normal.woff2": "/umd-gened-checker/static/media/inter-greek-400-normal.a8de720a6f13c66c8a4e.woff2",
+    "static/media/inter-cyrillic-400-normal.woff2": "/umd-gened-checker/static/media/inter-cyrillic-400-normal.cb04b2ee2f7d192478b8.woff2",
+    "static/media/inter-greek-ext-400-normal.woff": "/umd-gened-checker/static/media/inter-greek-ext-400-normal.b9e1e89444a313a63b91.woff",
+    "static/media/inter-vietnamese-400-normal.woff": "/umd-gened-checker/static/media/inter-vietnamese-400-normal.96f8adc74b63e1a3655f.woff",
+    "static/media/inter-greek-ext-400-normal.woff2": "/umd-gened-checker/static/media/inter-greek-ext-400-normal.f2fa0d9ef98f59d4a75b.woff2",
+    "static/media/inter-vietnamese-400-normal.woff2": "/umd-gened-checker/static/media/inter-vietnamese-400-normal.44c9df135eec470b0ab6.woff2",
     "static/media/logo.svg": "/umd-gened-checker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/umd-gened-checker/index.html",
-    "main.f855e6bc.css.map": "/umd-gened-checker/static/css/main.f855e6bc.css.map",
-    "main.797bf8c1.js.map": "/umd-gened-checker/static/js/main.797bf8c1.js.map",
+    "main.3203c854.css.map": "/umd-gened-checker/static/css/main.3203c854.css.map",
+    "main.53bc5929.js.map": "/umd-gened-checker/static/js/main.53bc5929.js.map",
     "453.d0c101a0.chunk.js.map": "/umd-gened-checker/static/js/453.d0c101a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.797bf8c1.js"
+    "static/css/main.3203c854.css",
+    "static/js/main.53bc5929.js"
   ]
 }
